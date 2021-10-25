@@ -1,1 +1,1 @@
-# mcm_demo
+# mcm-demo
